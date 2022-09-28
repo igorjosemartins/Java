@@ -1,0 +1,1552 @@
+"unidade_ensino","modalidade_ensino","tipo_curso","tipo_oferta","Ano","Status_Matricula","Quantidade"
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2009","certificados",0
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2009","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2009","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2009","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2009","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2009","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2009","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",0
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2009","certificados",0
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",0
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2009","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2009","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2009","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2009","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2009","certificados",0
+"CEST","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2009","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"CGAM","Educação Presencial","BACHARELADO","Outros","2009","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2009","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",0
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2009","certificados",0
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2009","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2009","certificados",163
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2009","certificados",13
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2009","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2009","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2009","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",1
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2009","certificados",0
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2009","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2009","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2009","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2009","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2009","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2009","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2009","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2009","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2009","certificados",0
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",0
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2009","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2009","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2009","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",0
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2009","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2009","certificados",0
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",0
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2009","certificados",0
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"CTAG","Educação Presencial","BACHARELADO","Outros","2009","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2009","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2009","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2009","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2009","certificados",0
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",0
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2009","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2009","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2009","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2009","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2009","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2009","certificados",0
+"IFB","Educação Presencial","BACHARELADO","Outros","2009","certificados",0
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2009","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2009","certificados",163
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2009","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2009","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2009","certificados",13
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2009","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2009","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2009","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2009","certificados",0
+"IFB","Educação Presencial","LICENCIATURA","Outros","2009","certificados",0
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2009","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2009","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Integrado","2009","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2009","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2009","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2009","certificados",1
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2009","certificados",0
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2009","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2009","certificados",0
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2010","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2010","certificados",0
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2010","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2010","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",215
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2010","certificados",49
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2010","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2010","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2010","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2010","certificados",0
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2010","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2010","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2010","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2010","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2010","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2010","certificados",0
+"CEST","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2010","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"CGAM","Educação Presencial","BACHARELADO","Outros","2010","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",37
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2010","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2010","certificados",15
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2010","certificados",0
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2010","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2010","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2010","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2010","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2010","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2010","certificados",0
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2010","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2010","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2010","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2010","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2010","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2010","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2010","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2010","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2010","certificados",0
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2010","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",40
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2010","certificados",92
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2010","certificados",30
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2010","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2010","certificados",0
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2010","certificados",0
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"CTAG","Educação Presencial","BACHARELADO","Outros","2010","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2010","certificados",27
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",177
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2010","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2010","certificados",25
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2010","certificados",0
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2010","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2010","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2010","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2010","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2010","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2010","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2010","certificados",0
+"IFB","Educação Presencial","BACHARELADO","Outros","2010","certificados",0
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2010","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2010","certificados",27
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2010","certificados",469
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2010","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2010","certificados",15
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2010","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2010","certificados",166
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2010","certificados",30
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2010","certificados",0
+"IFB","Educação Presencial","LICENCIATURA","Outros","2010","certificados",0
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2010","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2010","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Integrado","2010","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2010","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2010","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2010","certificados",0
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2010","certificados",0
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2010","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2010","certificados",0
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2011","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2011","certificados",0
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2011","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2011","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",20
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2011","certificados",13
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2011","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2011","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2011","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2011","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",0
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2011","certificados",0
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2011","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2011","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",0
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2011","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2011","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2011","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2011","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2011","certificados",0
+"CEST","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2011","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2011","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"CGAM","Educação Presencial","BACHARELADO","Outros","2011","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",27
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2011","certificados",6
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2011","certificados",61
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2011","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",0
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2011","certificados",0
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2011","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2011","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2011","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2011","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2011","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2011","certificados",20
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",54
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2011","certificados",0
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2011","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2011","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Integrado","2011","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2011","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2011","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2011","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2011","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",39
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2011","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2011","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2011","certificados",0
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2011","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",0
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2011","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",92
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2011","certificados",19
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2011","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2011","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",0
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",58
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2011","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2011","certificados",0
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2011","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",0
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2011","certificados",0
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"CTAG","Educação Presencial","BACHARELADO","Outros","2011","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2011","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",153
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2011","certificados",38
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2011","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2011","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2011","certificados",0
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2011","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",11
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2011","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2011","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2011","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2011","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2011","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2011","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2011","certificados",0
+"IFB","Educação Presencial","BACHARELADO","Outros","2011","certificados",0
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2011","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2011","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2011","certificados",389
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2011","certificados",6
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2011","certificados",99
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2011","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2011","certificados",32
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2011","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2011","certificados",0
+"IFB","Educação Presencial","LICENCIATURA","Outros","2011","certificados",0
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2011","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2011","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Integrado","2011","certificados",20
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2011","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2011","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2011","certificados",65
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2011","certificados",0
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2011","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2011","certificados",0
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2012","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2012","certificados",0
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",5
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2012","certificados",8
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2012","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",41
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2012","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2012","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2012","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2012","certificados",7
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2012","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",0
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2012","certificados",0
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2012","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2012","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",0
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2012","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2012","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2012","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2012","certificados",61
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2012","certificados",0
+"CEST","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2012","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2012","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",0
+"CGAM","Educação Presencial","BACHARELADO","Outros","2012","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",21
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2012","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2012","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",44
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2012","certificados",0
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",0
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2012","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2012","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2012","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2012","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2012","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2012","certificados",13
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",42
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2012","certificados",2
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",0
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2012","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2012","certificados",18
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",56
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Integrado","2012","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2012","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2012","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2012","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",0
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2012","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2012","certificados",161
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2012","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2012","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2012","certificados",0
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2012","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",0
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2012","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",0
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",65
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2012","certificados",188
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2012","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2012","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",0
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",0
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",107
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2012","certificados",156
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2012","certificados",0
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2012","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",0
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2012","certificados",0
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",0
+"CTAG","Educação Presencial","BACHARELADO","Outros","2012","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2012","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2012","certificados",73
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2012","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2012","certificados",39
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2012","certificados",119
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2012","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",11
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2012","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2012","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2012","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2012","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2012","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2012","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2012","certificados",5
+"IFB","Educação Presencial","BACHARELADO","Outros","2012","certificados",0
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2012","certificados",8
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2012","certificados",18
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2012","certificados",290
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2012","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2012","certificados",234
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2012","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2012","certificados",444
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2012","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2012","certificados",119
+"IFB","Educação Presencial","LICENCIATURA","Outros","2012","certificados",0
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2012","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2012","certificados",7
+"IFB","Educação Presencial","TÉCNICO","Integrado","2012","certificados",13
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2012","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2012","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2012","certificados",97
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2012","certificados",2
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2012","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2012","certificados",0
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2013","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2013","certificados",0
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",85
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2013","certificados",24
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2013","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",39
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2013","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2013","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2013","certificados",50
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2013","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2013","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2013","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",79
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2013","certificados",0
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2013","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2013","certificados",44
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2013","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2013","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",0
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2013","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2013","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2013","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",9
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2013","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2013","certificados",144
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2013","certificados",0
+"CEST","Educação Presencial","LICENCIATURA","Outros","2013","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2013","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2013","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",283
+"CGAM","Educação Presencial","BACHARELADO","Outros","2013","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2013","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2013","certificados",96
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2013","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2013","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",71
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2013","certificados",0
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2013","certificados",0
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",67
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2013","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2013","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",18
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2013","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2013","certificados",1
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2013","certificados",12
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2013","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2013","certificados",5
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2013","certificados",46
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",78
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2013","certificados",4
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2013","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",111
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2013","certificados",3
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2013","certificados",79
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",16
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2013","certificados",100
+"CREM","Educação Presencial","TÉCNICO","Integrado","2013","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2013","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",2
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2013","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2013","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",69
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2013","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2013","certificados",12
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2013","certificados",48
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2013","certificados",33
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2013","certificados",75
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2013","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2013","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",83
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2013","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2013","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",110
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",107
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2013","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2013","certificados",93
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2013","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2013","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2013","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",126
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",25
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",26
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2013","certificados",17
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2013","certificados",70
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2013","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2013","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",106
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2013","certificados",0
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",91
+"CTAG","Educação Presencial","BACHARELADO","Outros","2013","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2013","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2013","certificados",181
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2013","certificados",23
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2013","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2013","certificados",119
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2013","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2013","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",37
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2013","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2013","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2013","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2013","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2013","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2013","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2013","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2013","certificados",841
+"IFB","Educação Presencial","BACHARELADO","Outros","2013","certificados",0
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2013","certificados",27
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2013","certificados",79
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2013","certificados",215
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2013","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2013","certificados",433
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2013","certificados",23
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2013","certificados",303
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2013","certificados",33
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2013","certificados",276
+"IFB","Educação Presencial","LICENCIATURA","Outros","2013","certificados",50
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2013","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2013","certificados",5
+"IFB","Educação Presencial","TÉCNICO","Integrado","2013","certificados",46
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2013","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2013","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2013","certificados",582
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2013","certificados",4
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2013","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2013","certificados",0
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2014","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2014","certificados",0
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2014","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2014","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",36
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2014","certificados",26
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2014","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2014","certificados",7
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2014","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2014","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2014","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",84
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2014","certificados",0
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2014","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",174
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2014","certificados",0
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2014","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2014","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",0
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2014","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2014","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2014","certificados",15
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",80
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2014","certificados",28
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2014","certificados",38
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2014","certificados",0
+"CEST","Educação Presencial","LICENCIATURA","Outros","2014","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2014","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2014","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"CGAM","Educação Presencial","BACHARELADO","Outros","2014","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",14
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2014","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2014","certificados",0
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2014","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2014","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",73
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2014","certificados",0
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2014","certificados",0
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2014","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2014","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",14
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2014","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2014","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2014","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2014","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2014","certificados",7
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2014","certificados",6
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",34
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2014","certificados",18
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2014","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2014","certificados",10
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2014","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2014","certificados",132
+"CREM","Educação Presencial","TÉCNICO","Integrado","2014","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2014","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",3
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2014","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2014","certificados",32
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2014","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",16
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2014","certificados",69
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2014","certificados",44
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2014","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2014","certificados",21
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2014","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2014","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",88
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2014","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2014","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",208
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2014","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2014","certificados",1
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2014","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2014","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2014","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",36
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2014","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2014","certificados",122
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2014","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2014","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",216
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2014","certificados",0
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"CTAG","Educação Presencial","BACHARELADO","Outros","2014","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2014","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2014","certificados",62
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2014","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2014","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2014","certificados",56
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2014","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2014","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",50
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2014","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2014","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2014","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2014","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2014","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2014","certificados",32
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2014","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2014","certificados",0
+"IFB","Educação Presencial","BACHARELADO","Outros","2014","certificados",0
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2014","certificados",10
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2014","certificados",15
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2014","certificados",542
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2014","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2014","certificados",291
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2014","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2014","certificados",109
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2014","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2014","certificados",199
+"IFB","Educação Presencial","LICENCIATURA","Outros","2014","certificados",7
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2014","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2014","certificados",7
+"IFB","Educação Presencial","TÉCNICO","Integrado","2014","certificados",6
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2014","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2014","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2014","certificados",584
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2014","certificados",18
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2014","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2014","certificados",0
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2015","certificados",16
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2015","certificados",0
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",66
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2015","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2015","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2015","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2015","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2015","certificados",17
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2015","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2015","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2015","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",179
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2015","certificados",4
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2015","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",58
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",70
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2015","certificados",69
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2015","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2015","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",0
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2015","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2015","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2015","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",18
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2015","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2015","certificados",139
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2015","certificados",4
+"CEST","Educação Presencial","LICENCIATURA","Outros","2015","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2015","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2015","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2015","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",71
+"CGAM","Educação Presencial","BACHARELADO","Outros","2015","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2015","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2015","certificados",0
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2015","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2015","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2015","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",87
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2015","certificados",0
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2015","certificados",0
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",1
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2015","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2015","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",19
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2015","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2015","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2015","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2015","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2015","certificados",9
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2015","certificados",22
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",127
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2015","certificados",30
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2015","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2015","certificados",18
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",297
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2015","certificados",19
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2015","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2015","certificados",132
+"CREM","Educação Presencial","TÉCNICO","Integrado","2015","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2015","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2015","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",1
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2015","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2015","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",20
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2015","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",52
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2015","certificados",24
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2015","certificados",22
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2015","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2015","certificados",8
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2015","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2015","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2015","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",61
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2015","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2015","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",71
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",136
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2015","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2015","certificados",173
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2015","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2015","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2015","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2015","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",155
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",0
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",5
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2015","certificados",113
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2015","certificados",18
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2015","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2015","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2015","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",178
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2015","certificados",0
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",47
+"CTAG","Educação Presencial","BACHARELADO","Outros","2015","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2015","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2015","certificados",17
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2015","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2015","certificados",38
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2015","certificados",94
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2015","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2015","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2015","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",35
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2015","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2015","certificados",16
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2015","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2015","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2015","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2015","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2015","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2015","certificados",18
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2015","certificados",631
+"IFB","Educação Presencial","BACHARELADO","Outros","2015","certificados",0
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2015","certificados",19
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2015","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2015","certificados",300
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2015","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2015","certificados",242
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2015","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2015","certificados",485
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2015","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2015","certificados",124
+"IFB","Educação Presencial","LICENCIATURA","Outros","2015","certificados",17
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2015","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2015","certificados",9
+"IFB","Educação Presencial","TÉCNICO","Integrado","2015","certificados",22
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2015","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2015","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2015","certificados",823
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2015","certificados",34
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2015","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2015","certificados",0
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2016","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2016","certificados",0
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",1
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2016","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2016","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2016","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2016","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2016","certificados",16
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2016","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2016","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2016","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",139
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2016","certificados",4
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2016","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",0
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",172
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2016","certificados",2
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2016","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2016","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",0
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2016","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2016","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2016","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",17
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2016","certificados",45
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2016","certificados",0
+"CEST","Educação Presencial","LICENCIATURA","Outros","2016","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2016","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2016","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2016","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",90
+"CGAM","Educação Presencial","BACHARELADO","Outros","2016","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2016","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2016","certificados",4
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2016","certificados",0
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2016","certificados",2
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",48
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2016","certificados",0
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",33
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2016","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2016","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2016","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2016","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2016","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2016","certificados",2
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2016","certificados",94
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",140
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2016","certificados",39
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2016","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",300
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2016","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2016","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2016","certificados",63
+"CREM","Educação Presencial","TÉCNICO","Integrado","2016","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2016","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2016","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2016","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2016","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",28
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2016","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",70
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2016","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2016","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2016","certificados",0
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2016","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2016","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2016","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",12
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2016","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",40
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",20
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2016","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2016","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2016","certificados",3
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2016","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2016","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",41
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",51
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2016","certificados",94
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2016","certificados",2
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2016","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2016","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2016","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",135
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2016","certificados",0
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",0
+"CTAG","Educação Presencial","BACHARELADO","Outros","2016","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2016","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2016","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2016","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2016","certificados",0
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2016","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2016","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2016","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",59
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2016","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2016","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2016","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2016","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2016","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2016","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2016","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2016","certificados",543
+"IFB","Educação Presencial","BACHARELADO","Outros","2016","certificados",0
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2016","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2016","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2016","certificados",279
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2016","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2016","certificados",65
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2016","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2016","certificados",139
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2016","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2016","certificados",2
+"IFB","Educação Presencial","LICENCIATURA","Outros","2016","certificados",23
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2016","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2016","certificados",2
+"IFB","Educação Presencial","TÉCNICO","Integrado","2016","certificados",94
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2016","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2016","certificados",2
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2016","certificados",574
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2016","certificados",43
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2016","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2016","certificados",0
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2017","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2017","certificados",0
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",93
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2017","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2017","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2017","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2017","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2017","certificados",29
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2017","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2017","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2017","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",110
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2017","certificados",16
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2017","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",91
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",181
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2017","certificados",4
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2017","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",38
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2017","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2017","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2017","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2017","certificados",30
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2017","certificados",12
+"CEST","Educação Presencial","LICENCIATURA","Outros","2017","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2017","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2017","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2017","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",103
+"CGAM","Educação Presencial","BACHARELADO","Outros","2017","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",27
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2017","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2017","certificados",19
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2017","certificados",6
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2017","certificados",23
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2017","certificados",14
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",94
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2017","certificados",1
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",92
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2017","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2017","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2017","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2017","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2017","certificados",0
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2017","certificados",4
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2017","certificados",44
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",54
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2017","certificados",15
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2017","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",466
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2017","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2017","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2017","certificados",1
+"CREM","Educação Presencial","TÉCNICO","Integrado","2017","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2017","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2017","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2017","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2017","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",16
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2017","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",60
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2017","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2017","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2017","certificados",0
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2017","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2017","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2017","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",77
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2017","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",94
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",104
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2017","certificados",26
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2017","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2017","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2017","certificados",26
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2017","certificados",26
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2017","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",88
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",20
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2017","certificados",11
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2017","certificados",0
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2017","certificados",1
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2017","certificados",2
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2017","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",119
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2017","certificados",0
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",93
+"CTAG","Educação Presencial","BACHARELADO","Outros","2017","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2017","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2017","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2017","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2017","certificados",373
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2017","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2017","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2017","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",23
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2017","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2017","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2017","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2017","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2017","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2017","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2017","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2017","certificados",1068
+"IFB","Educação Presencial","BACHARELADO","Outros","2017","certificados",0
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2017","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2017","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2017","certificados",372
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2017","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2017","certificados",46
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2017","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2017","certificados",41
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2017","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2017","certificados",385
+"IFB","Educação Presencial","LICENCIATURA","Outros","2017","certificados",66
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2017","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2017","certificados",4
+"IFB","Educação Presencial","TÉCNICO","Integrado","2017","certificados",95
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2017","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2017","certificados",14
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2017","certificados",603
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2017","certificados",32
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2017","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2017","certificados",0
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2018","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2018","certificados",91
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",1
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2018","certificados",11
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2018","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2018","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2018","certificados",0
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2018","certificados",32
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2018","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2018","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2018","certificados",73
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",352
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2018","certificados",69
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2018","certificados",33
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",53
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",211
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2018","certificados",0
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2018","certificados",18
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2018","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",56
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2018","certificados",0
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2018","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2018","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",102
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2018","certificados",21
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2018","certificados",46
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2018","certificados",14
+"CEST","Educação Presencial","LICENCIATURA","Outros","2018","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2018","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2018","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",25
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2018","certificados",0
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",5
+"CGAM","Educação Presencial","BACHARELADO","Outros","2018","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2018","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2018","certificados",269
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2018","certificados",8
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2018","certificados",36
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2018","certificados",27
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",126
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2018","certificados",6
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2018","certificados",15
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",62
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2018","certificados",9
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2018","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",3
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2018","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2018","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2018","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2018","certificados",20
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2018","certificados",9
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2018","certificados",53
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",93
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2018","certificados",41
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2018","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2018","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",65
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2018","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2018","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2018","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Integrado","2018","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2018","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2018","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",43
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2018","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2018","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",8
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2018","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",81
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2018","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2018","certificados",77
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2018","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2018","certificados",5
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2018","certificados",14
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2018","certificados",26
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2018","certificados",0
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",61
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2018","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2018","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",2
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",0
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2018","certificados",24
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2018","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2018","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2018","certificados",14
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2018","certificados",62
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2018","certificados",1
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",69
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",2
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2018","certificados",182
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2018","certificados",0
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2018","certificados",21
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2018","certificados",87
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2018","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",172
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2018","certificados",24
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",12
+"CTAG","Educação Presencial","BACHARELADO","Outros","2018","certificados",5
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2018","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2018","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2018","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2018","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2018","certificados",130
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2018","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2018","certificados",41
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2018","certificados",18
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",32
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2018","certificados",1
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2018","certificados",33
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2018","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2018","certificados",91
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2018","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2018","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2018","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2018","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2018","certificados",210
+"IFB","Educação Presencial","BACHARELADO","Outros","2018","certificados",5
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2018","certificados",20
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2018","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2018","certificados",397
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2018","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2018","certificados",314
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2018","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2018","certificados",305
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2018","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2018","certificados",149
+"IFB","Educação Presencial","LICENCIATURA","Outros","2018","certificados",127
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2018","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2018","certificados",9
+"IFB","Educação Presencial","TÉCNICO","Integrado","2018","certificados",378
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2018","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2018","certificados",46
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2018","certificados",1029
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2018","certificados",141
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2018","certificados",0
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2018","certificados",15
+"CBRA","Educação a Distancia","FORMACAO CONTINUADA","Outros","2019","certificados",0
+"CBRA","Educação a Distancia","FORMACAO INICIAL","Concomitante","2019","certificados",1
+"CBRA","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",13
+"CBRA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2019","certificados",16
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2019","certificados",0
+"CBRA","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",56
+"CBRA","Educação Presencial","FORMACAO INICIAL","Outros","2019","certificados",0
+"CBRA","Educação Presencial","FORMACAO INICIAL","Subsequente","2019","certificados",19
+"CBRA","Educação Presencial","LICENCIATURA","Outros","2019","certificados",16
+"CBRA","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2019","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Concomitante","2019","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Integrado","2019","certificados",0
+"CBRA","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",152
+"CBRA","Educação Presencial","TECNOLOGIA","Outros","2019","certificados",52
+"CCEI","Educação a Distancia","FORMACAO CONTINUADA","Outros","2019","certificados",0
+"CCEI","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",26
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",153
+"CCEI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2019","certificados",0
+"CCEI","Educação Presencial","LICENCIATURA","Outros","2019","certificados",16
+"CCEI","Educação Presencial","TÉCNICO","Integrado","2019","certificados",0
+"CCEI","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",41
+"CCEI","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2019","certificados",18
+"CEST","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2019","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2019","certificados",0
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",13
+"CEST","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2019","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Outros","2019","certificados",0
+"CEST","Educação Presencial","FORMACAO INICIAL","Subsequente","2019","certificados",7
+"CEST","Educação Presencial","LICENCIATURA","Outros","2019","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Integrado","2019","certificados",0
+"CEST","Educação Presencial","TÉCNICO","PROEJA - Integrado","2019","certificados",0
+"CEST","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",21
+"CGAM","Educação a Distancia","TÉCNICO","Concomitante","2019","certificados",3
+"CGAM","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",3
+"CGAM","Educação Presencial","BACHARELADO","Outros","2019","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2019","certificados",0
+"CGAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2019","certificados",76
+"CGAM","Educação Presencial","LICENCIATURA","Outros","2019","certificados",6
+"CGAM","Educação Presencial","TÉCNICO","Integrado","2019","certificados",24
+"CGAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2019","certificados",31
+"CGAM","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",74
+"CGAM","Educação Presencial","TECNOLOGIA","Outros","2019","certificados",16
+"CGAM","Todos","FORMACAO CONTINUADA","Subsequente","2019","certificados",45
+"CPLA","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",12
+"CPLA","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2019","certificados",0
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2019","certificados",7
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",10
+"CPLA","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2019","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Outros","2019","certificados",0
+"CPLA","Educação Presencial","FORMACAO INICIAL","Subsequente","2019","certificados",0
+"CPLA","Educação Presencial","LICENCIATURA","Outros","2019","certificados",7
+"CPLA","Educação Presencial","TÉCNICO","Concomitante","2019","certificados",5
+"CPLA","Educação Presencial","TÉCNICO","Integrado","2019","certificados",5
+"CPLA","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",102
+"CPLA","Educação Presencial","TECNOLOGIA","Outros","2019","certificados",9
+"CPLA","Todos","FORMACAO CONTINUADA","Subsequente","2019","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2019","certificados",0
+"CREM","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",19
+"CREM","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2019","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2019","certificados",223
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",0
+"CREM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2019","certificados",25
+"CREM","Educação Presencial","TÉCNICO","Integrado","2019","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2019","certificados",0
+"CREM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2019","certificados",0
+"CREM","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",37
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Outros","2019","certificados",0
+"CRFI","Educação a Distancia","FORMACAO INICIAL","Subsequente","2019","certificados",0
+"CRFI","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",1
+"CRFI","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2019","certificados",0
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",158
+"CRFI","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2019","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Outros","2019","certificados",48
+"CRFI","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2019","certificados",0
+"CRFI","Educação Presencial","FORMACAO INICIAL","Subsequente","2019","certificados",0
+"CRFI","Educação Presencial","LICENCIATURA","Outros","2019","certificados",29
+"CRFI","Educação Presencial","TÉCNICO","Integrado","2019","certificados",84
+"CRFI","Educação Presencial","TÉCNICO","PROEJA - Integrado","2019","certificados",17
+"CRFI","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",81
+"CRFI","Educação Presencial","TECNOLOGIA","Outros","2019","certificados",0
+"CSAM","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2019","certificados",0
+"CSAM","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",0
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",27
+"CSAM","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2019","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","Outros","2019","certificados",0
+"CSAM","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2019","certificados",0
+"CSAM","Educação Presencial","LICENCIATURA","Outros","2019","certificados",0
+"CSAM","Educação Presencial","TÉCNICO","Integrado","2019","certificados",38
+"CSAM","Educação Presencial","TÉCNICO","PROEJA - Integrado","2019","certificados",4
+"CSAM","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",97
+"CSSB","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",8
+"CSSB","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Outros","2019","certificados",0
+"CSSB","Educação Presencial","FORMACAO INICIAL","Subsequente","2019","certificados",0
+"CSSB","Educação Presencial","LICENCIATURA","Outros","2019","certificados",5
+"CSSB","Educação Presencial","TÉCNICO","Integrado","2019","certificados",1
+"CSSB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2019","certificados",0
+"CSSB","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",110
+"CSSB","Educação Presencial","TECNOLOGIA","Outros","2019","certificados",2
+"CTAG","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",55
+"CTAG","Educação Presencial","BACHARELADO","Outros","2019","certificados",1
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2019","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",0
+"CTAG","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2019","certificados",115
+"CTAG","Educação Presencial","FORMACAO INICIAL","Concomitante","2019","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Outros","2019","certificados",0
+"CTAG","Educação Presencial","FORMACAO INICIAL","Subsequente","2019","certificados",0
+"CTAG","Educação Presencial","LICENCIATURA","Outros","2019","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Integrado","2019","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","PROEJA - Integrado","2019","certificados",0
+"CTAG","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",49
+"CTAG","Educação Presencial","TECNOLOGIA","Outros","2019","certificados",4
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Outros","2019","certificados",0
+"IFB","Educação a Distancia","FORMACAO CONTINUADA","Subsequente","2019","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Concomitante","2019","certificados",1
+"IFB","Educação a Distancia","FORMACAO INICIAL","Outros","2019","certificados",0
+"IFB","Educação a Distancia","FORMACAO INICIAL","Subsequente","2019","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Concomitante","2019","certificados",3
+"IFB","Educação a Distancia","TÉCNICO","PROEJA - Integrado","2019","certificados",0
+"IFB","Educação a Distancia","TÉCNICO","Subsequente","2019","certificados",137
+"IFB","Educação Presencial","BACHARELADO","Outros","2019","certificados",1
+"IFB","Educação Presencial","ESPECIALIZACAO (LATO SENSU)","Outros","2019","certificados",16
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Concomitante","2019","certificados",230
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Outros","2019","certificados",417
+"IFB","Educação Presencial","FORMACAO CONTINUADA","PROEJA - Concomitante","2019","certificados",0
+"IFB","Educação Presencial","FORMACAO CONTINUADA","Subsequente","2019","certificados",216
+"IFB","Educação Presencial","FORMACAO INICIAL","Concomitante","2019","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Outros","2019","certificados",48
+"IFB","Educação Presencial","FORMACAO INICIAL","PROEJA - Concomitante","2019","certificados",0
+"IFB","Educação Presencial","FORMACAO INICIAL","Subsequente","2019","certificados",26
+"IFB","Educação Presencial","LICENCIATURA","Outros","2019","certificados",79
+"IFB","Educação Presencial","MESTRADO PROFISSIONAL","Outros","2019","certificados",0
+"IFB","Educação Presencial","TÉCNICO","Concomitante","2019","certificados",5
+"IFB","Educação Presencial","TÉCNICO","Integrado","2019","certificados",152
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Concomitante","2019","certificados",0
+"IFB","Educação Presencial","TÉCNICO","PROEJA - Integrado","2019","certificados",52
+"IFB","Educação Presencial","TÉCNICO","Subsequente","2019","certificados",764
+"IFB","Educação Presencial","TECNOLOGIA","Outros","2019","certificados",83
+"IFB","Todos","ESPECIALIZACAO (LATO SENSU)","Outros","2019","certificados",18
+"IFB","Todos","FORMACAO CONTINUADA","Subsequente","2019","certificados",45
