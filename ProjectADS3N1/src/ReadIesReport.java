@@ -61,8 +61,8 @@ public class ReadIesReport {
                 // se o valor dos certificados for diferente de 0
                 if (certificados != 0) {
                     // mostra a mensagem
-                    String message = "Universidade " + universidade + " - " + certificados + " certificados emitidos";
-                    System.out.println(message);
+                    System.out.println("Universidade " + universidade + " - " + certificados + " certificados emitidos");
+
                 }
             }
         }

@@ -39,9 +39,9 @@ public class SearchInFile {
                 - "Nenhum resultado foi encontrado."
          */
 
-        String word, wordFounded, result;
+        String word, result = "";
 
-        int numberLine = 0, lineFounded = 0, count = 0;
+        int numberLine = 0, count = 0;
 
         do {
             word = JOptionPane.showInputDialog("Informe uma palavra para busca:");
@@ -57,23 +57,19 @@ public class SearchInFile {
             numberLine += 1;
 
             if (l.contains(word)) {
-                // pegar as linhas
-                wordFounded = l;
-                // pegar o número da linha
-                lineFounded = numberLine;
 
-                result = lineFounded + " - " + l;
+                result += numberLine + " - " + l + "\n\n";
 
-                JOptionPane.showMessageDialog(null, result);
-
-                // contador para depois conseguirmos mostrar que a palavra pesquisada não foi encontrada
                 count++;
             }
         }
+
         if (count == 0) {
             JOptionPane.showMessageDialog(null, "Nenhum resultado foi encontrado.");
         }
-
+        else {
+            JOptionPane.showMessageDialog(null, result);
+        }
         // ================= RESOLUÇÃO FIM =======================
     }
 }
