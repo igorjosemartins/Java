@@ -43,30 +43,38 @@ public class SearchInFile {
 
         int numberLine = 0, count = 0;
 
+        // perguntar pro usuário uma primeira vez
         do {
             word = JOptionPane.showInputDialog("Informe uma palavra para busca:");
 
             if(word.length() <3 ) {
                 JOptionPane.showMessageDialog(null,"A palavra deve possuir 3 ou mais caracteres!");
             }
-        }
+        } // perguntar até que a resposta tenha no mínimo 3 caracteres
         while (word.length() < 3);
 
+        // loop p percorrer as linhas
         for (String l : lines) {
 
+            // contador das linhas
             numberLine += 1;
 
+            // se na linha tiver a palavra pesquisada
             if (l.contains(word)) {
 
+                // parágrafo + conteúdo da linha
                 result += numberLine + " - " + l + "\n\n";
 
+                // contador p mostrar que entrou na condição
                 count++;
             }
         }
 
+        // se não entrou na condição = mostra a mensagem de erro
         if (count == 0) {
             JOptionPane.showMessageDialog(null, "Nenhum resultado foi encontrado.");
         }
+        // se entrou = mostra o resultado
         else {
             JOptionPane.showMessageDialog(null, result);
         }
